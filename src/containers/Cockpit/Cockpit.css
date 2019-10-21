@@ -1,0 +1,21 @@
+.Cockpit button {
+    border: 1px solid turquoise;
+    background-color: lightgreen;
+    cursor: pointer;
+    color: white;
+  }
+  
+  .Cockpit button:hover {
+    background-color: darkgreen;
+    color: black;
+  }
+  
+  .Cockpit button.Red {
+    background-color: coral;
+    color: black;
+  }
+  
+  .Cockpit button.Red:hover {
+    background-color: darkred;
+    color: white;
+  }
